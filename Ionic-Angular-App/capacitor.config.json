@@ -1,0 +1,6 @@
+{
+	"appId": "com.ionicapptest.application",
+	"appName": "Ionic-Angular-App",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

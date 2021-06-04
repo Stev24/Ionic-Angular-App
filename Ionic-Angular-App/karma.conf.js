@@ -3,6 +3,11 @@
 
 module.exports = function (config) {
   config.set({
+    parserOptions: {
+      project: "tsconfig.json",
+      tsconfigRootDir: __dirname,
+      sourceType: "module",
+    },
     basePath: '',
     frameworks: ['jasmine', '@angular-devkit/build-angular'],
     plugins: [

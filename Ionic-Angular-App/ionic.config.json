@@ -1,5 +1,7 @@
 {
   "name": "Ionic-Angular-App",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
