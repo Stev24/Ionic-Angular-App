@@ -4,5 +4,6 @@ Basic App created with Ionic and Angular
 Displays a list of recipes. When clicked on a recipe, details will be displayed. <br>
 
 
-![Recipes](https://user-images.githubusercontent.com/8513106/144716951-2382d232-0c06-4ac8-8e0a-c9db3620383d.png)
-![Untitled](https://user-images.githubusercontent.com/8513106/144716953-9105b008-a9b2-42b4-9e21-532fd1e81b8f.png)
+
+![Recipes](https://user-images.githubusercontent.com/8513106/144717019-8f0817c7-1b63-407d-8f3e-afe08619d129.png)
+![Untitled](https://user-images.githubusercontent.com/8513106/144717020-0ae5c369-8732-4f40-914b-ec544e597cd0.png)
